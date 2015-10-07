@@ -2,6 +2,8 @@
 
 In today’s mainstream penetration testing and Red Team environments we feel that the teams are relying too much on noisy scanners. In part making for a large group of scanner monkeys. This talk is bringing back old school ways with a new flavor, a new flair to prove that those techniques still work in the majority of engagements that many of us are involved in. The problem with many tools is not only how noisy they can be, but also the amount of logic and decision making that goes on under the hood without any human input. 
 
+It is our hope that people can learn from this, and also contribute and teach us. 
+
 *****
 ##Index
 * Recorded Talks
